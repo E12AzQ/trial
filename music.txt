@@ -1,2 +1,2 @@
-歌名 - 歌手
+song - singer
 Feel It Still - Portugal. The Man
